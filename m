@@ -808,7 +808,7 @@ MTV,mitv://fccs.word-tv.com:9906/6258e40a000dc72411e4e7829de2c8b5
 八大娛樂,mitv://fccs.word-tv.com:9906/6258e45a000845a611e61e9a50bc5e3e
 Z頻道,mitv://fccs.word-tv.com:9906/6258e492000691dc11e6f8eac01761d4
 生命電視臺,mitv://fccs.word-tv.com:9906/6258e612000a9c7511ecd5f381cd413f
-時尚瘋高清頻道,mitv://fccs.word-tv.com:9906/6258e626000f104a11ed2537d42ef8a8
+FashionTV,mitv://fccs.word-tv.com:9906/6258e626000f104a11ed2537d42ef8a8
 華藏衛星電視臺,mitv://fccs.word-tv.com:9906/6258e84a000a4dcb11f5809f32a54f53
 全大,mitv://fccs.word-tv.com:9906/62614c730008668f18c9bd3d40261639
 信大,mitv://fccs.word-tv.com:9906/62614ca00005778f18ca6c44cdea2031
