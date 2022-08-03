@@ -725,17 +725,17 @@ NewTV明星大片 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u
 Word-TV,#genre#
 
 無綫新聞台,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
-無綫財經·資訊台,mitv://fccs.word-tv.com:9906/62595c1a000d108b13b9e5d4f3816d5e
+無綫財經台,mitv://fccs.word-tv.com:9906/62595c1a000d108b13b9e5d4f3816d5e
 明珠台,mitv://fccs.word-tv.com:9906/6258eaca00006a3411ff4217b567e90f
 翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
 J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
 TVB星河,mitv://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
 ViuTV,mitv://fccs.word-tv.com:9906/62716383000252be099745b8d64c4cfa
 VIUSIX,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
-香港有線新聞,mitv://fccs.word-tv.com:9906/6258e930000d447111f903d1236f6fc8
-有線財經資訊,mitv://fccs.word-tv.com:9906/626bc59f000aad820daaf91ae564e9c6
-香港有線電影,mitv://fccs.word-tv.com:9906/626bc5e5000b44cb0dac0ab18c230b75
-有線綜合娛樂,mitv://fccs.word-tv.com:9906/626bc60b000392d40dac9d2923dd262b
+HKC新聞台,mitv://fccs.word-tv.com:9906/6258e930000d447111f903d1236f6fc8
+HKC財經台,mitv://fccs.word-tv.com:9906/626bc59f000aad820daaf91ae564e9c6
+HKC電影台,mitv://fccs.word-tv.com:9906/626bc5e5000b44cb0dac0ab18c230b75
+HKC娛樂台,mitv://fccs.word-tv.com:9906/626bc60b000392d40dac9d2923dd262b
 衛視電影台,mitv://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
 澳門蓮花,mitv://fccs.word-tv.com:9906/6258e686000e215f11ee9bf962767123
 
