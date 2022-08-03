@@ -726,7 +726,7 @@ NewTV明星大片 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u
 
 ViuTV,mitv://fccs.word-tv.com:9906/62716383000252be099745b8d64c4cfa
 VIUSIX,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
-J5無線財經新聞,mitv://fccs.word-tv.com:9906/62595c1a000d108b13b9e5d4f3816d5e
+無線財經新聞,mitv://fccs.word-tv.com:9906/62595c1a000d108b13b9e5d4f3816d5e
 明珠台,mitv://fccs.word-tv.com:9906/6258eaca00006a3411ff4217b567e90f
 互動新聞,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
 翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
