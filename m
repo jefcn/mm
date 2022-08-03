@@ -1,7 +1,5 @@
 央视蓝光,#genre#
 
-HBO,mitv://ns2.hellotvvod.com:9906/23e7c175d3b84aa4a09b11da7728e6c6
-
 CCTV1,http://183.207.249.9/PLTV/3/224/3221225530/1.m3u8$江苏移动
 CCTV1,http://183.207.249.134/ott.js.chinamobile.com/PLTV/3/224/3221227641/index.m3u8$江苏移动
 CCTV1,http://183.207.249.133/ott.js.chinamobile.com/PLTV/3/224/3221227641/index.m3u8$江苏移动
@@ -1393,16 +1391,35 @@ HandsUp,mitv://ns2.hellotvvod.com:9906/43e47c450cfe4b8cb84363a3263af579.ts
 
 其他频道,#genre#	
 
-    彩虹e台,mitv://ns2.hellotvvod.com:9906/5e82f32843cf4b8e99f07a1c799b3851
-    彩虹電影台,mitv://ns2.hellotvvod.com:9906/bcd55282f97e49fb8a55c3c8a4de48f3
-    LOOK TV,mitv://ns2.hellotvvod.com:9906/a2dd077459d5400bb1b3158385de22d5
-    潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/c8589ff8c36c4e72a9b604c61be35962
-    驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/cac666bec3a44169bff6b1d1f48f7d67
-    松視1台,mitv://ns2.hellotvvod.com:9906/b38279cc17f94e488fa4cc1df2d25a63
-    松視2台,mitv://ns2.hellotvvod.com:9906/91a9b279d5ca4629ac04157baaf095bf
-    PLAYBOY,mitv://ns2.hellotvvod.com:9906/edad3da983474f7889730c8cfd5321e9
-    香蕉台,mitv://ns2.hellotvvod.com:9906/edb18b7e92c74df083681bac7ec1ac5f
-    松視3台,mitv://ns2.hellotvvod.com:9906/2ed3e79538364ed68f8f909de4e13be8
-    JStar極限台,mitv://ns2.hellotvvod.com:9906/e3ec78bbb85a472e8843d43e7205e87d
-    HAPPY,mitv://ns2.hellotvvod.com:9906/d08db5ea6c98424badd2101f44157021
-    彩虹K,mitv://ns2.hellotvvod.com:9906/5044e5e86476431f981c4b781aca6f9e
+松視1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
+松視2,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視3,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
+潘朵拉粉紅台,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
+潘朵拉完美台,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
+HOT,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
+HAPPY,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
+驚豔台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
+香蕉台,mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
+極限台,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+彩虹電影,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
+LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
+K頻道,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
+澳視,mitv://fccs.word-tv.com:9906/62685209000bd522002f77760f5e6638
+澳視二,mitv://fccs.word-tv.com:9906/6268522f000aa0b200300b97a3d1af63
+彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
+香草天道,mitv://fccs.word-tv.com:9906/626b730a000f13ab0c686433a4aa22a5
+性愛教主,mitv://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
+ＶＥＮＵＳ,mitv://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
+做愛特教班,mitv://fccs.word-tv.com:9906/626b7343000190970c693f6577f8facb
+奶奶按摩店,mitv://fccs.word-tv.com:9906/626b73510008edf70c6977f8aa9df6c2
+AV女王,mitv://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
+人妻不倫,mitv://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
+水多多,mitv://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
+近親相姦 ,mitv://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
+彩虹通道 ,mitv://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
+PLAYBOY,mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
+KMP頻道 ,mitv://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
+午夜蓝,mitv://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
+櫻桃,mitv://fccs.word-tv.com:9906/626b7434000c38c40c6cef87e3079c78
+大學女援交妹,mitv://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
+做愛輸入,mitv://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e0110	
