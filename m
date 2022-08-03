@@ -722,34 +722,30 @@ NewTV明星大片 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u
 上海纪实人文 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
 北京冬奥纪实 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 
-母机频道,#genre#
+Word-TV,#genre#
 
-ViuTV,mitv://fccs.word-tv.com:9906/62716383000252be099745b8d64c4cfa
-VIUSIX,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
-無線財經新聞,mitv://fccs.word-tv.com:9906/62595c1a000d108b13b9e5d4f3816d5e
+無綫新聞台,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
+無綫財經·資訊台,mitv://fccs.word-tv.com:9906/62595c1a000d108b13b9e5d4f3816d5e
 明珠台,mitv://fccs.word-tv.com:9906/6258eaca00006a3411ff4217b567e90f
-互動新聞?,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
 翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
 J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
-RHK31,mitv://fccs.word-tv.com:9906/62595a6e000b3da213b35d7c1c92697f
-RHK32,mitv://fccs.word-tv.com:9906/62595a8a0007901013b3c9eb93df46aa
+TVB星河,mitv://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
+ViuTV,mitv://fccs.word-tv.com:9906/62716383000252be099745b8d64c4cfa
+VIUSIX,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
 香港有線新聞,mitv://fccs.word-tv.com:9906/6258e930000d447111f903d1236f6fc8
-有線18台,mitv://fccs.word-tv.com:9906/626bc57e0002fcc70daa763a17885784
 有線財經資訊,mitv://fccs.word-tv.com:9906/626bc59f000aad820daaf91ae564e9c6
-有線603高清,mitv://fccs.word-tv.com:9906/626bc5c00008e69a0dab798eb8ae558d
 香港有線電影,mitv://fccs.word-tv.com:9906/626bc5e5000b44cb0dac0ab18c230b75
 有線綜合娛樂,mitv://fccs.word-tv.com:9906/626bc60b000392d40dac9d2923dd262b
-有線衛視電影台,mitv://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
-TVB星河高清頻道,mitv://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
+衛視電影台,mitv://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
 澳門蓮花,mitv://fccs.word-tv.com:9906/6258e686000e215f11ee9bf962767123
 
-FashionTV,mitv://fccs.word-tv.com:9906/6258e626000f104a11ed2537d42ef8a8
-
-壹新聞,mitv://fccs.word-tv.com:9906/62541b7c0007f8c30979c109c2ede6a3
+壹電視新聞,mitv://fccs.word-tv.com:9906/62541b7c0007f8c30979c109c2ede6a3
 年代新聞,mitv://fccs.word-tv.com:9906/62540c45000225da093e50b45b457d41
 東森新聞,mitv://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
 中天新聞,mitv://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
 民視新聞,mitv://fccs.word-tv.com:9906/625411d700086db70954149f159813c6
+台視新聞,mitv://fccs.word-tv.com:9906/6269285d000bc5c40374af92643669c3
+中視新聞,mitv://fccs.word-tv.com:9906/626928b800072a99037611dc7cf5b636
 三立新聞,mitv://fccs.word-tv.com:9906/625411f9000c761609549a782b245a4c
 TVBS新聞,mitv://fccs.word-tv.com:9906/6254121e00022e5c0955285ee55f9ec4
 非凡新聞台,mitv://fccs.word-tv.com:9906/6257f613000f40140e435b0b41c847c0
@@ -758,22 +754,25 @@ TVBS新聞,mitv://fccs.word-tv.com:9906/6254121e00022e5c0955285ee55f9ec4
 
 國家地理野生,mitv://fccs.word-tv.com:9906/6258eb6f0008bb551201c8c015a4226c
 國家地理頻道,mitv://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57
+動物星球,mitv://fccs.word-tv.com:9906/62541d9c0009282c09820e57f2a59d11
+BBCEarth,mitv://fccs.word-tv.com:9906/62612d0100000350184ee5c7d2e06684
+BBCLifestyle,mitv://fccs.word-tv.com:9906/62612d25000c2e05184f7584a93f9e5e
 Discovery,mitv://fccs.word-tv.com:9906/62541db9000483b809827e6fdf85c22c
 DiscoveryAsia,mitv://fccs.word-tv.com:9906/6258ebd80002c54f12036161f9ac3eb0
-探索動力,mitv://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
-探索科學高清頻道,mitv://fccs.word-tv.com:9906/6258ebf3000576221203cb8904668102
+DiscoverySci,mitv://fccs.word-tv.com:9906/6258ebf3000576221203cb8904668102
+DMAX,mitv://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
 TLC旅遊,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
-動物星球,mitv://fccs.word-tv.com:9906/62541d9c0009282c09820e57f2a59d11
 EVE健康,mitv://fccs.word-tv.com:9906/6258ec270004be301204967a3d33f14a
 EYETV旅遊台,mitv://fccs.word-tv.com:9906/62595e910009221e13c385aa08f4d222
 亞洲旅遊台,mitv://fccs.word-tv.com:9906/62595eed0008772713c4ecde7515ec18
-BBCEarth,mitv://fccs.word-tv.com:9906/62612d0100000350184ee5c7d2e06684
-BBCLifestyle,mitv://fccs.word-tv.com:9906/62612d25000c2e05184f7584a93f9e5e
 
-HBO HD,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
-HBO 强档,mitv://fccs.word-tv.com:9906/6258e224000020c111dd7994321ef7ec
-HBO 家庭,mitv://fccs.word-tv.com:9906/6258e2990005537411df43f0702258cf
-HBO 原创,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
+FashionTV,mitv://fccs.word-tv.com:9906/6258e626000f104a11ed2537d42ef8a8
+
+HBO,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
+HBO Hits,mitv://fccs.word-tv.com:9906/6258e224000020c111dd7994321ef7ec
+HBO Signature,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
+HBO Family,mitv://fccs.word-tv.com:9906/6258e2990005537411df43f0702258cf
+MTV,mitv://fccs.word-tv.com:9906/6258e40a000dc72411e4e7829de2c8b5
 
 中視HD,mitv://fccs.word-tv.com:9906/6257e968000a66d90e11ddd52825327a
 民視HD,mitv://fccs.word-tv.com:9906/62582da100098ec20f1c5c4698b437cf
@@ -814,7 +813,6 @@ TVBSHD,mitv://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
 龍祥電影台,mitv://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1
 東森電影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
 緯來電影,mitv://fccs.word-tv.com:9906/625b8f93000ccb45025ff35db29f96fd
-
 東森洋片,mitv://fccs.word-tv.com:9906/62541d6200021780098129f8ea5d0f93
 AXN,mitv://fccs.word-tv.com:9906/6258d52d000490df11aad5dfc8e0641c
 好萊塢電影,mitv://fccs.word-tv.com:9906/6256bd25000a0a02097cf805932004af
@@ -828,11 +826,9 @@ MOMO綜合台,mitv://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
 中天亞洲,mitv://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e
 STARWord,mitv://fccs.word-tv.com:9906/6258dcea0002765e11c90f9d2d7fac5d
 狼谷娛樂,mitv://fccs.word-tv.com:9906/6258f82b00089b8f12338718bf84237d
-MTV,mitv://fccs.word-tv.com:9906/6258e40a000dc72411e4e7829de2c8b5
 八大娛樂,mitv://fccs.word-tv.com:9906/6258e45a000845a611e61e9a50bc5e3e
 Z頻道,mitv://fccs.word-tv.com:9906/6258e492000691dc11e6f8eac01761d4
 生命電視臺,mitv://fccs.word-tv.com:9906/6258e612000a9c7511ecd5f381cd413f
-
 華藏衛星電視臺,mitv://fccs.word-tv.com:9906/6258e84a000a4dcb11f5809f32a54f53
 全大,mitv://fccs.word-tv.com:9906/62614c730008668f18c9bd3d40261639
 信大,mitv://fccs.word-tv.com:9906/62614ca00005778f18ca6c44cdea2031
@@ -859,10 +855,10 @@ EYETV戲劇台,mitv://fccs.word-tv.com:9906/625960940003b62a13cb5fff85627bd1
 星衛娛樂台,mitv://fccs.word-tv.com:9906/6259b4eb0005f6251514d46a93c04eb3
 TVBS精采台,mitv://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f
 DreamWorks,mitv://fccs.word-tv.com:9906/6259b527000085d61515bd669d7ec89a
-medici-arts,mitv://fccs.word-tv.com:9906/6260e56600092796173732a63095dc7a
-mezzolive,mitv://fccs.word-tv.com:9906/6259b5420005dbab1516283bb17231c9
-古典音樂台CLASSICAHD,mitv://fccs.word-tv.com:9906/6260fd970004b7061795b0eb2df29131
-LUXETVChannel,mitv://fccs.word-tv.com:9906/6259b55f000cba8815169b462e40e185
+Medici-Arts,mitv://fccs.word-tv.com:9906/6260e56600092796173732a63095dc7a
+MezzoLive,mitv://fccs.word-tv.com:9906/6259b5420005dbab1516283bb17231c9
+古典音樂台,mitv://fccs.word-tv.com:9906/6260fd970004b7061795b0eb2df29131
+LUXE.TV,mitv://fccs.word-tv.com:9906/6259b55f000cba8815169b462e40e185
 三立戲劇,mitv://fccs.word-tv.com:9906/6259b5a1000d5db415179d3f530f1044
 三立綜合,mitv://fccs.word-tv.com:9906/6259b57f0003ca05151715fc95200be0
 亞洲旅遊台,mitv://fccs.word-tv.com:9906/6260e4ab0008152e173457e810b3184d
@@ -874,20 +870,19 @@ TravelChannel,mitv://fccs.word-tv.com:9906/626141950004f9a5189f492c02913ec0
 龍華影劇,mitv://fccs.word-tv.com:9906/6260e4fc0003a35a1735932d66a9b4e5
 靖天資訊,mitv://fccs.word-tv.com:9906/62680bf30004db8219222787aaffbf79
 靖天卡通台,mitv://fccs.word-tv.com:9906/62618c1e000132fa19c26f5d328c9a20
-晴天日本,mitv://fccs.word-tv.com:9906/6260e53d0006302e173691bcb1337e0a
-KLT-靖天國際台,mitv://fccs.word-tv.com:9906/62618c820009926c19c3f821ebec02ee
+靖天日本,mitv://fccs.word-tv.com:9906/6260e53d0006302e173691bcb1337e0a
+靖天國際台,mitv://fccs.word-tv.com:9906/62618c820009926c19c3f821ebec02ee
 幸福空間居家台,mitv://fccs.word-tv.com:9906/6260e5930002f4ee1737e0d8c16e8abc
 HGTV居家樂活頻道,mitv://fccs.word-tv.com:9906/626197e30008e06719f06adc8c2c9e9a
-LOVENATURE,mitv://fccs.word-tv.com:9906/6260e5a4000e4c4817382627a71c329e
+LOVE NATURE,mitv://fccs.word-tv.com:9906/6260e5a4000e4c4817382627a71c329e
 tvN,mitv://fccs.word-tv.com:9906/6260e5b8000664c11738724174984fec
 靖洋卡通台NiceBingo,mitv://fccs.word-tv.com:9906/6260e5f00006cfff17394d1df9bdf95d
 靖洋戲劇台,mitv://fccs.word-tv.com:9906/6260e602000b292d1739948a4e6140fe
-WarnerTV　,mitv://fccs.word-tv.com:9906/6260fa2e000ad4fb17886054ef6e4e06
+WarnerTV,mitv://fccs.word-tv.com:9906/6260fa2e000ad4fb17886054ef6e4e06
 天映經典電影,mitv://fccs.word-tv.com:9906/6260fa83000c7b8e1789acc84075d31b
-韓國娛樂台KMTV,mitv://fccs.word-tv.com:9906/6260fa95000d4aba1789f34d5039df1a
+韓國娛樂台,mitv://fccs.word-tv.com:9906/6260fa95000d4aba1789f34d5039df1a
 歷史頻道,mitv://fccs.word-tv.com:9906/6261294500077fb31840515220a0a636
 HISTORY2,mitv://fccs.word-tv.com:9906/62612b2d000c46021847c4cb0d2536d1
-
 美食星球頻道,mitv://fccs.word-tv.com:9906/626139fa00036cff1881934f1fc1ae06
 FOOD美食,mitv://fccs.word-tv.com:9906/62612f36000389e4185785b669c4f5bf
 罪案偵緝頻道,mitv://fccs.word-tv.com:9906/62612fc9000147ae1859c35a8e800dbf
@@ -902,10 +897,8 @@ amc最愛電影,mitv://fccs.word-tv.com:9906/62674eb900041ef4163efcc6b4c8cd0b
 CinemaWorld,mitv://fccs.word-tv.com:9906/626750ba0002f9431646d0630173b458
 民視第一台,mitv://fccs.word-tv.com:9906/626927db000004640372b0c04cca9ca3
 民視台灣台,mitv://fccs.word-tv.com:9906/62692823000550c80373cb5be6f7e438
-台視新聞HD,mitv://fccs.word-tv.com:9906/6269285d000bc5c40374af92643669c3
 台視財經,mitv://fccs.word-tv.com:9906/626928870002ef3e0375515fa02e33ba
 台視綜合,mitv://fccs.word-tv.com:9906/626929ef0001a650037acf4bc1fd630b
-中視新聞HD,mitv://fccs.word-tv.com:9906/626928b800072a99037611dc7cf5b636
 中視經典,mitv://fccs.word-tv.com:9906/626928e3000ce0de0376bb4ad8c2f741
 中視菁采,mitv://fccs.word-tv.com:9906/6269290b000463f70377555ece4c7fca
 華視體育文化教育,mitv://fccs.word-tv.com:9906/62692aad0004ff59037db656efdee736
@@ -913,11 +906,11 @@ CinemaWorld,mitv://fccs.word-tv.com:9906/626750ba0002f9431646d0630173b458
 公視3,mitv://fccs.word-tv.com:9906/62692af700080a87037ed82d98f82f9d
 France24,mitv://fccs.word-tv.com:9906/62618b8d0007241819c03a7a7bfe8708
 DW,mitv://fccs.word-tv.com:9906/626191960005358319d7cd241ef843c4
-CNBC Asia Channel,mitv://fccs.word-tv.com:9906/626854f2000c5c52003ad5c1393ee879
+CNBC Asia,mitv://fccs.word-tv.com:9906/626854f2000c5c52003ad5c1393ee879
 Bloomberg,mitv://fccs.word-tv.com:9906/626191ed0001b05319d92015e4a6cb61
 CNA,mitv://fccs.word-tv.com:9906/6261934a0007e00f19de74f21e2709b4
-TV5Monde,mitv://fccs.word-tv.com:9906/62619385000ca19e19df5ca2f9eb4def
-NHKword,mitv://fccs.word-tv.com:9906/626193dc00042c1e19e0ae50e7db21fc
+TV5 Monde,mitv://fccs.word-tv.com:9906/62619385000ca19e19df5ca2f9eb4def
+NHK world,mitv://fccs.word-tv.com:9906/626193dc00042c1e19e0ae50e7db21fc
 BBC,mitv://fccs.word-tv.com:9906/6257e7ef0003fddd0e0c1b89963d6947
 CNN,mitv://fccs.word-tv.com:9906/62582a520008e9c70f0f6f8479cb96d1
 
@@ -1396,29 +1389,30 @@ HandsUp,mitv://ns2.hellotvvod.com:9906/43e47c450cfe4b8cb84363a3263af579.ts
 松視3,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
 潘朵拉粉紅台,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
 潘朵拉完美台,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-HOT,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
-HAPPY,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 驚豔台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
 香蕉台,mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
-極限台,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
 彩虹電影,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
+彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
+彩虹K頻道,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
+JStar極限台,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+HOT,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
+HAPPY,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
-K頻道,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
+PLAYBOY,mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
+
 澳視,mitv://fccs.word-tv.com:9906/62685209000bd522002f77760f5e6638
 澳視二,mitv://fccs.word-tv.com:9906/6268522f000aa0b200300b97a3d1af63
-彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
 香草天道,mitv://fccs.word-tv.com:9906/626b730a000f13ab0c686433a4aa22a5
 性愛教主,mitv://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
-ＶＥＮＵＳ,mitv://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
+VENUS,mitv://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
 做愛特教班,mitv://fccs.word-tv.com:9906/626b7343000190970c693f6577f8facb
 奶奶按摩店,mitv://fccs.word-tv.com:9906/626b73510008edf70c6977f8aa9df6c2
 AV女王,mitv://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
 人妻不倫,mitv://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
 水多多,mitv://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
-近親相姦 ,mitv://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
-彩虹通道 ,mitv://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
-PLAYBOY,mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
-KMP頻道 ,mitv://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
+近親相姦,mitv://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
+彩虹通道,mitv://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
+KMP頻道,mitv://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
 午夜蓝,mitv://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
 櫻桃,mitv://fccs.word-tv.com:9906/626b7434000c38c40c6cef87e3079c78
 大學女援交妹,mitv://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
