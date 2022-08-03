@@ -1,12 +1,5 @@
 央视蓝光,#genre#
-
-    CNN,mitv://ns2.hellotvvod.com:9906/d9992a89cc114c5eb924dbdbf1b6ea6d
-    民視,mitv://ns2.hellotvvod.com:9906/ab45f757ec2a4c2ebbbea7823cb482f0
-    人間衛視,mitv://ns2.hellotvvod.com:9906/3ddfa5b1ddff4de8a4cdbff4c1f20661
-    台視,mitv://ns2.hellotvvod.com:9906/01818783436249b28f33dace1bb922d7
-    大愛,mitv://ns2.hellotvvod.com:9906/dca7e5a2be8a437581ca8341063ff331
-    中視,mitv://ns2.hellotvvod.com:9906/012f9b3b680b4a0784b7a663921873bb
-    
+  
 CCTV1,http://183.207.249.9/PLTV/3/224/3221225530/1.m3u8$江苏移动
 CCTV1,http://183.207.249.134/ott.js.chinamobile.com/PLTV/3/224/3221227641/index.m3u8$江苏移动
 CCTV1,http://183.207.249.133/ott.js.chinamobile.com/PLTV/3/224/3221227641/index.m3u8$江苏移动
