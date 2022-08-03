@@ -1,6 +1,6 @@
 央视蓝光,#genre#
 
-
+  HBO,mitv://ns2.hellotvvod.com:9906/23e7c175d3b84aa4a09b11da7728e6c6
 
 CCTV1,http://183.207.249.9/PLTV/3/224/3221225530/1.m3u8$江苏移动
 CCTV1,http://183.207.249.134/ott.js.chinamobile.com/PLTV/3/224/3221227641/index.m3u8$江苏移动
