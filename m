@@ -726,7 +726,7 @@ NewTV明星大片 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u
 
 金母机,#genre#
 
-BBC WorldNews,mitv://fccs.word-tv.com:9906/6257e7ef0003fddd0e0c1b89963d6947
+BBC World News,mitv://fccs.word-tv.com:9906/6257e7ef0003fddd0e0c1b89963d6947
 CNN International,mitv://fccs.word-tv.com:9906/62582a520008e9c70f0f6f8479cb96d1
 民視HD,mitv://fccs.word-tv.com:9906/62582da100098ec20f1c5c4698b437cf
 人間衛視,mitv://fccs.word-tv.com:9906/62582fff0009dab60f259b89f7464d63
@@ -787,7 +787,7 @@ TVBSHD,mitv://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
 龍祥電影台,mitv://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1
 東森電影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
 緯來電影,mitv://fccs.word-tv.com:9906/625b8f93000ccb45025ff35db29f96fd
-HBOHD,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
+HBO HD,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
 東森洋片,mitv://fccs.word-tv.com:9906/62541d6200021780098129f8ea5d0f93
 AXN,mitv://fccs.word-tv.com:9906/6258d52d000490df11aad5dfc8e0641c
 好萊塢電影,mitv://fccs.word-tv.com:9906/6256bd25000a0a02097cf805932004af
@@ -831,7 +831,7 @@ RHK32,mitv://fccs.word-tv.com:9906/62595a8a0007901013b3c9eb93df46aa
 有線衛視電影台,mitv://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
 TVB星河高清頻道,mitv://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
 澳門蓮花,mitv://fccs.word-tv.com:9906/6258e686000e215f11ee9bf962767123
-國家地理高畫質野生頻道,mitv://fccs.word-tv.com:9906/6258eb6f0008bb551201c8c015a4226c
+國家地理野生高畫質,mitv://fccs.word-tv.com:9906/6258eb6f0008bb551201c8c015a4226c
 DiscoveryAsia,mitv://fccs.word-tv.com:9906/6258ebd80002c54f12036161f9ac3eb0
 探索動力,mitv://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
 探索科學高清頻道,mitv://fccs.word-tv.com:9906/6258ebf3000576221203cb8904668102
@@ -840,7 +840,7 @@ EYETV旅遊台,mitv://fccs.word-tv.com:9906/62595e910009221e13c385aa08f4d222
 亞洲旅遊台,mitv://fccs.word-tv.com:9906/62595eed0008772713c4ecde7515ec18
 愛爾達綜合,mitv://fccs.word-tv.com:9906/62595f88000e134a13c74bc62a907482
 愛爾達影劇台,mitv://fccs.word-tv.com:9906/62595fe00007a82a13c8a1e18c1171c7
-EYETV戲劇台　,mitv://fccs.word-tv.com:9906/625960940003b62a13cb5fff85627bd1
+EYETV戲劇台,mitv://fccs.word-tv.com:9906/625960940003b62a13cb5fff85627bd1
 愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141
 愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
 愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2
