@@ -367,12 +367,11 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8$1080P
 
 海外频道,#genre#
 
-CNN,http://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 FOX News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 Sky News,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+CNN,http://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 NBC News,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 Global News,http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
