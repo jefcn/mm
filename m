@@ -1300,7 +1300,7 @@ Love Nature,P2p://ns2.hellotvvod.com:9906/41f7fe129dac4fa6bc1a6f2556ff334a
 Food Network,P2p://ns2.hellotvvod.com:9906/503d40ce584d4c3388a2335257da72c4
 亚洲旅游台,P2p://ns2.hellotvvod.com:9906/752338a84a06467aa2b6adf25554dde2
 EYE TV旅游台,P2p://ns2.hellotvvod.com:9906/178eec47f2c64a8d967e08c320defd0d
-时尚频道,P2p://ns2.hellotvvod.com:9906/2b7ca7659b16416b8e5a60ec55fb0e68
+FashionTV,P2p://ns2.hellotvvod.com:9906/2b7ca7659b16416b8e5a60ec55fb0e68
 TV5MONDE Style 生活时尚,P2p://ns2.hellotvvod.com:9906/1805c3eb8e4547f78ba8b72e8d97dea4
 Travel Channel,P2p://ns2.hellotvvod.com:9906/9a7f9e972337485eb298b47361f99847
 TLC,P2p://ns2.hellotvvod.com:9906/5201fc0be3cf47868d97de76b81b0268
