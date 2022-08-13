@@ -1,6 +1,7 @@
 央视蓝光,#genre#
 
 1,mitv://45.92.126.18:9906/6258ea7a0006d8b111fe0b3c369d9e17
+cnn,mitv://ns2.hellotvvod.com:9906/d696ad5d361d414cbcaf20b295784de4
 CCTV1,http://183.207.249.9/PLTV/3/224/3221225530/1.m3u8$江苏移动
 CCTV1,http://183.207.249.134/ott.js.chinamobile.com/PLTV/3/224/3221227641/index.m3u8$江苏移动
 CCTV1,http://183.207.249.133/ott.js.chinamobile.com/PLTV/3/224/3221227641/index.m3u8$江苏移动
