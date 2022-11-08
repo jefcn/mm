@@ -1,5 +1,5 @@
 央视蓝光,#genre#
-沢田美波,https://ss.rongliren.com/api/video/m3u8?id=13789&admin=1
+
 CCTV1,http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225924/index.m3u8$广西IPv6
 CCTV1,http://[2409:8087:5c00:10:5::96]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225654/index.m3u8$广西IPv6
 CCTV1,http://[2409:8087:5c00:10:5::138]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225888/index.m3u8$广西IPv6
