@@ -1194,8 +1194,8 @@ k频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 
 节目之一,#genre#
 时长:53:39-DLHEY_20220520 巨乳美女将为您服务！Vol.2  沢田美波,https://ss.rongliren.com/api/video/m3u8?id=13789
-时长:13:32-DLHEY_20220528 用公鸡插入一个素人的女人！ ！！  山田萌,https://ss.rongliren.com/api/video/m3u8?id=13788&admin=1
-时长:18:47-DLHEY-219 有欲望的成熟女人 ～ 北條麻妃 _3,https://ss.rongliren.com/api/video/m3u8?id=13787&admin=1
+时长:13:32-DLHEY_20220528 用公鸡插入一个素人的女人！ ！！  山田萌,https://ss.rongliren.com/api/video/m3u8?id=13788
+时长:18:47-DLHEY-219 有欲望的成熟女人 ～ 北條麻妃 _3,https://ss.rongliren.com/api/video/m3u8?id=13787
 时长:01:00:53-DLHEY-223 男人去的色情按摩 - 北山かんな,https://ss.rongliren.com/api/video/m3u8?id=13786&admin=1
 时长:01:00:14-DLHEY-224 我想去洗手间在喷~L～  杉浦花音,https://ss.rongliren.com/api/video/m3u8?id=13784&admin=1
 时长:54:34-DL1pon_031022_001 羞耻的撒尿  柊麗奈_1,https://ss.rongliren.com/api/video/m3u8?id=13783&admin=1
@@ -1258,9 +1258,9 @@ k频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 
 节目之二,#genre#
 
-假期约炮旗袍小姐姐-时长:32:36,https://ss.rongliren.com/api/video/m3u8?id=7937&admin=1
-酒店度假户外漏出-时长:08:26,https://ss.rongliren.com/api/video/m3u8?id=7943&admin=1
-绝美少妇被男邻居强上-时长:33:04,https://ss.rongliren.com/api/video/m3u8?id=8027&admin=1
+假期约炮旗袍小姐姐-时长:32:36,https://ss.rongliren.com/api/video/m3u8?id=7937
+酒店度假户外漏出-时长:08:26,https://ss.rongliren.com/api/video/m3u8?id=7943
+绝美少妇被男邻居强上-时长:33:04,https://ss.rongliren.com/api/video/m3u8?id=8027
 理万姬 线下缓交-时长:22:00,https://ss.rongliren.com/api/video/m3u8?id=7945&admin=1
 邻家有女初长成.邻家小妹酒店调教-时长:26:45,https://ss.rongliren.com/api/video/m3u8?id=14579&admin=1
 萝莉女神 后入蜜桃无比迎合夹茎 爆射娇嫩玉颜舔精-时长:14:01,https://ss.rongliren.com/api/video/m3u8?id=8061&admin=1
@@ -1769,9 +1769,9 @@ MOM金發碧眼的辦公室老闆很高興她在辦公室初中時被丈夫欺�
 
 节目之三,#genre#
 
-新紅樓夢-CD01初嘗禁果-时长:47:03,https://ss.rongliren.com/api/video/m3u8?id=6899&admin=1
-新紅樓夢-CD03素女銷魂-时长:47:14,https://ss.rongliren.com/api/video/m3u8?id=6897&admin=1
-新紅樓夢-CD06引君入夢-时长:54:13,https://ss.rongliren.com/api/video/m3u8?id=6895&admin=1
+新紅樓夢-CD01初嘗禁果-时长:47:03,https://ss.rongliren.com/api/video/m3u8?id=6899
+新紅樓夢-CD03素女銷魂-时长:47:14,https://ss.rongliren.com/api/video/m3u8?id=6897
+新紅樓夢-CD06引君入夢-时长:54:13,https://ss.rongliren.com/api/video/m3u8?id=6895
 新紅樓夢-CD08痴情色男-时长:01:27:03,https://ss.rongliren.com/api/video/m3u8?id=6893&admin=1
 新紅樓夢-CD10極樂世界-时长:45:16,https://ss.rongliren.com/api/video/m3u8?id=6891&admin=1
 新金瓶梅01-时长:01:26:14,https://ss.rongliren.com/api/video/m3u8?id=6483&admin=1
@@ -2011,11 +2011,6 @@ MD反叛女学生的逆袭-玥可岚,https://t11.cdn2020.com:12336/video/m3u8/20
 
 节目之五,#genre#
 
-愛舞蹈室,https://video2.51daao.com/btt1/2021/01/20210113/bKtEK5Ws/index.m3u8
-拍攝現場,https://video2.51daao.com/btt1/2021/01/20210113/QPBIPcR1/index.m3u8
-姐姐的愛,https://video2.51daao.com/btt1/2021/01/20210113/WSpB6fLT/index.m3u8
-精東服務,https://video2.51daao.com/btt1/2021/01/20210113/3o664UjK/index.m3u8
-小偷奇遇記,https://video2.51daao.com/btt1/2021/01/20210113/FtbUErjs/index.m3u8
 🐍7传媒01,https://w9n76.cdnedge.live/file/avple-images/hls/62c5a7d836c38433078a6954/playlist.m3u8
 🐍7传媒02,https://d862cp.cdnedge.live/file/avple-images/hls/62c5a72636c38433078a6952/playlist.m3u8
 🐍7传媒03,https://u89ey.cdnedge.live/file/avple-images/hls/62c5a76036c38433078a6953/playlist.m3u8
